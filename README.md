@@ -1,4 +1,5 @@
 Program Overview
+
 This program is a utility designed to automatically install and configure WinRAR on a Windows system. If WinRAR is not already installed, the application downloads and installs the latest available version of WinRAR silently, without user intervention. After installation, the program configures WinRAR with a custom registration key, allowing users to start using the application immediately.
 
 Key Features:
