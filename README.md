@@ -1,3 +1,17 @@
+## 💰 Support My Work
+
+If you find this project helpful and want to support my work, you can contribute through:
+
+### 💎 Crypto Donations
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
+|:---:|
+| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
+| USDT (TRC20 Network) |
+
+
+### Buy Me a Coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
+
 # WinRAR Key Manager
 
 A utility tool designed to automate the installation and configuration of WinRAR on Windows systems.
@@ -68,16 +82,3 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 `windows` `software` `license` `winrar` `archive`
 
-## 💰 Support My Work
-
-If you find this project helpful and want to support my work, you can contribute through:
-
-### 💎 Crypto Donations
-| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
-|:---:|
-| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
-| USDT (TRC20 Network) |
-
-
-### Buy Me a Coffee
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
