@@ -1,25 +1,83 @@
-Program Overview
+# WinRAR Key Manager
 
-This program is a utility designed to automatically install and configure WinRAR on a Windows system. 
-If WinRAR is not already installed, the application downloads and installs the latest available version of WinRAR silently, without user intervention.
-After installation, the program configures WinRAR with a custom registration key, allowing users to start using the application immediately.
+A utility tool designed to automate the installation and configuration of WinRAR on Windows systems.
 
-Key Features:
-WinRAR Detection: Checks if WinRAR is already installed on the user's system.
+## 🚀 Features
 
-Automatic Installation: If WinRAR is not found, the program downloads and installs WinRAR automatically from the official website.
+- **Automatic WinRAR Detection**: Checks if WinRAR is already installed on your system
+- **Silent Installation**: Downloads and installs the latest WinRAR version automatically without user intervention
+- **Auto Configuration**: Configures WinRAR with registration settings
+- **Quick Launch**: Automatically launches WinRAR after setup
 
-Registration Key Configuration: After installation, the program adds a custom registration key to the rarreg.key file, ensuring that WinRAR works long-term without requiring user intervention.
+## 🛡️ Security Features
 
-Launching WinRAR: After configuration, the application automatically opens WinRAR so that users can begin using it immediately.
+- Uses official WinRAR installer from the authentic source
+- No third-party dependencies
+- No personal data collection
+- Runs completely locally on your system
 
-Benefits:
-Fast and Easy Installation: Users don’t need to do anything manually—the program handles installation and configuration.
+## 🔧 System Requirements
 
-To ensure security:
+- Windows Operating System
+- Internet connection (for initial download if WinRAR is not installed)
+- Administrative privileges (for installation)
 
-Official Installer: The program uses the official WinRAR installer from the WinRAR website, ensuring that you get a legitimate version of the software.
+## 📥 Installation
 
-No Third-Party Code: The program does not include any third-party libraries or code that could pose a security risk.
+1. Clone the repository:
+```bash
+git clone https://github.com/Cracked-oss/WinrarKeyManager.git
+```
 
-No Personal Data Collected: This program does not collect or transmit any personal information. It runs entirely locally on your system.
+2. Navigate to the project directory:
+```bash
+cd WinrarKeyManager
+```
+
+3. Run the compile script:
+```bash
+compile.bat
+```
+
+## 🔨 Usage
+
+Simply run the compiled executable. The program will:
+1. Check for existing WinRAR installation
+2. Download and install WinRAR if not present
+3. Configure the necessary settings
+4. Launch WinRAR automatically
+
+## 🛠️ Technologies
+
+- C# (.NET)
+- Batch scripting
+
+## ⚖️ License
+
+This project is licensed under the Unlicense - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## ⚠️ Disclaimer
+
+This tool is for educational purposes only. Users should comply with WinRAR's terms of service and licensing requirements.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
+
+## 🏷️ Tags
+
+`windows` `software` `license` `winrar` `archive`
+
+## 💰 Support My Work
+
+If you find this project helpful and want to support my work, you can contribute through:
+
+### 💎 Crypto Donations
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
+|:---:|
+| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
+| USDT (TRC20 Network) |
+
+
+### Buy Me a Coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
