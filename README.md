@@ -65,6 +65,10 @@ Simply run the compiled executable. The program will:
 
 - C# (.NET)
 - Batch scripting
+- 
+## 📫 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hex_Code)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hexcode.832203/)
 
 ## ⚖️ License
 
